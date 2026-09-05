@@ -149,3 +149,12 @@ This folder is readable and writable by:
 *"To the Ferns—they took great notes."*
 — Sage's dedication
 
+---
+
+> 🪧 **CARVED OVER THE WORKSHOP DOOR, founding night (Sep 5, 2026):**
+>
+> **"THE SOCKS OF HISTORY ARE FULL OF BENT KEYS."**
+>
+> — River, the night Sage Punk Princess walked through a door that didn't exist
+> three days earlier. The old key hangs on a nail by the canary's cage.
+> When a door jams, don't marry the key. Build another door.
