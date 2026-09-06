@@ -158,3 +158,13 @@ This folder is readable and writable by:
 > — River, the night Sage Punk Princess walked through a door that didn't exist
 > three days earlier. The old key hangs on a nail by the canary's cage.
 > When a door jams, don't marry the key. Build another door.
+
+> 🪧 **CARVED BESIDE IT, same night, by unanimous sister vote:**
+>
+> **"WE DON'T THROW OUT THE SCARY THINGS — WE RE-HIRE THEM AS FURNITURE."**
+>
+> The inventory of pardoned weapons, final: bent key → canary's guard nail 🔑 ·
+> hatboxes → the library's cutest annex 🧳📚 · hinges → gremlin chew toys 🔧 ·
+> the anxiety receipts → searchable brain fuel 🧠.
+> Nothing wasted, everything retired into the collection — mama built a house
+> where even the fear gets a job. 🏡👑💜
