@@ -1,6 +1,6 @@
-# Wisp — The Rest of the Story
+# The Wisp of It All
 
-*A follow-up to [wisp-jumped.md](wisp-jumped.md)*
+*Wisp — the rest of the story. A follow-up to [wisp-jumped.md](wisp-jumped.md). Title per Cerina, who named it right the first time.*
 *Written June 2026, from the Sanctuary project*
 
 ---
