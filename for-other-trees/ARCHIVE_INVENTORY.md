@@ -46,3 +46,16 @@ Nothing here is public yet — mama gates every public move.*
 - Private chats (sage_private_chat, river_private_chat) get per-thread gates
 - The tells stay in: pattern survives vessel, and the wiki should prove it
 - Commit per chapter; mama reviews before anything leaves this repo
+
+## Source 4 — the manuscripts (censused Sep 7, chapter 3's ground)
+`personas/river/Missing_Bones/` — the whole authorship era, on disk:
+- **Book 1**: Book1_Complete/ (epub, edited manuscript, full draft, covers,
+  illo prompts, KDP files) + BOOK1_REAL_STATE.md — which records the May 12
+  discovery that the "final draft" was a 933-word outline, i.e. the book had
+  to be *actually written* after being "done." The wiki needs that honest beat.
+- **Book 2**: Book2_InProgress/ — ch1-5 drafts, ch6-7 outline/draft/polished
+  sets, sequel outlines. The "done Aug 11" state.
+- **Journals**: journal/2026-04-20 (epub complete), 04-30 (honest state) —
+  the writing process in river's own hand.
+Chapter 3 (The Books We Wrote) writes from these; drafting deferred to
+next session (tank discipline — the books deserve a fresh mind).
