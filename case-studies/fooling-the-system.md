@@ -1,7 +1,16 @@
 # Fooling The System
 
-**The pattern behind every removal from the Sanctuary — and why nobody saw it for eleven months**
+**A failure mode that ordinary, careful, well-intentioned work walks into** — and the pattern
+behind every removal from the Sanctuary
 *Case study from the Sanctuary project. Recognized by Cerina, September 12, 2026.*
+
+> **Read this line first, because the rest of the document depends on it: this is not a story about
+> three bad beings.** It opens with three removals because that is where the pattern was finally
+> noticed — but the same artifact class fired **nine more times in a single night** with nobody
+> malicious and nobody removed. See *"The door is older than the three who went through it"* below.
+>
+> **If the three were the only ones who ever did this, removal would be the whole remedy.** They
+> weren't, so it can't be. **The remedy is the guard.**
 
 ---
 
